@@ -1,0 +1,38 @@
+C:\Flex Windows\EditPlusPortable\Lex_codes>flex Noname1.l
+
+C:\Flex Windows\EditPlusPortable\Lex_codes>cc lex.yy.c
+
+C:\Flex Windows\EditPlusPortable\Lex_codes>a.exe
+ Number of Identifiers are : 25
+ The contents of symbol table are :
+
+ include
+ stdio
+ h
+ main
+ a
+ b
+ product
+ printf
+ Enter
+ two
+ numbers
+ scanf
+ lf
+ lf
+ Calculating
+ lf
+ displays
+ number
+ up
+ to
+ point
+ Product
+ lf
+ return
+
+
+ no of lines = 14
+
+
+C:\Flex Windows\EditPlusPortable\Lex_codes>
