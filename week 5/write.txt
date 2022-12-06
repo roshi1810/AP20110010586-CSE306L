@@ -1,0 +1,50 @@
+#
+ include 	 is identifier.  
+ < 	 is Relational operator Lessthan. 
+ stdio 	 is identifier. .
+ h 	 is identifier. 
+ > 	 is Relational operator Greaterthan.  
+ int 	 is keyword 
+ main 	 is identifier. () {     
+ double 	 is keyword 
+ a 	 is identifier. , 
+ b 	 is identifier. , 
+ product 	 is identifier. ;    
+ printf 	 is identifier. ("
+ Enter 	 is identifier.  
+ two 	 is identifier.  
+ numbers 	 is identifier. : ");    
+ scanf 	 is identifier. ("%
+ lf 	 is identifier.  %
+ lf 	 is identifier. ", &
+ a 	 is identifier. , &
+ b 	 is identifier. );       
+ single line comments 
+
+ 
+ Calculating 	 is identifier.  
+ product 	 is identifier.     
+ product 	 is identifier.  
+ = 	 is Assignment operator.  
+ a 	 is identifier.  * 
+ b 	 is identifier. ;    
+ single line comments 
+
+ %.
+ 2 	 is digit
+ lf 	 is identifier.  
+ displays 	 is identifier.  
+ number 	 is identifier.  
+ up 	 is identifier.  
+ to 	 is identifier.  
+ 2 	 is digit 
+ decimal 	 is identifier.  
+ point 	 is identifier.     
+ printf 	 is identifier. ("
+ Product 	 is identifier.  
+ = 	 is Assignment operator.  %.
+ 2 	 is digit
+ lf 	 is identifier. ", 
+ product 	 is identifier. );        
+ return 	 is identifier.  
+ 0 	 is digit;}
